@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2023/04/16/hello-world/"/>
-      <url>/2023/04/16/hello-world/</url>
+      <title>hello</title>
+      <link href="/2023/04/16/hello/"/>
+      <url>/2023/04/16/hello/</url>
       
-        <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">我将会在这分享我的学习经历</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">我将会在这分享我的一些学习经历</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
