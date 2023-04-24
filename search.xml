@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>没有标题</title>
+      <link href="/2023/04/24/%E6%B2%A1%E6%9C%89%E6%A0%87%E9%A2%98/"/>
+      <url>/2023/04/24/%E6%B2%A1%E6%9C%89%E6%A0%87%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h1>阶段一</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">从学习java改为学习c++的过程中，首先是学完了c++的基础语法，以及其面向对象的特性，以及STL。</span><br><span class="line">之后在github上获取了几个项目，想要通过阅读项目源代码学习c++在于项目中的各种应用技术，但是发现对于c++的各种技术还是缺乏一定的认知，比如说网络编程，多线程，以及并发等等缺乏了解，难以阅读源代码。</span><br><span class="line">也有去想着去写一些简单的程序巩固c++的基础，但是又觉得太过单薄，于是就决定加上c++网络编程的学习。</span><br><span class="line">目前是主学c++网络编程。</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hello</title>
       <link href="/2023/04/16/hello/"/>
       <url>/2023/04/16/hello/</url>
